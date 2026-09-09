@@ -1,0 +1,4 @@
+repository "2d-galaga-classic/2d-galaga-classic@14569093443596@cloud"
+  path "/"
+    br "/main"
+    co "/main"
