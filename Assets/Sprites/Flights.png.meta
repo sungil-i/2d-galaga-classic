@@ -164,10 +164,10 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PlayerShip
+      name: Flights_0
       rect:
         serializedVersion: 2
-        x: 17
+        x: 0
         y: 68
         width: 15
         height: 16
@@ -189,10 +189,10 @@ TextureImporter:
       name: Flights_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 50
-        width: 17
-        height: 18
+        x: 17
+        y: 68
+        width: 15
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -211,10 +211,10 @@ TextureImporter:
       name: Flights_2
       rect:
         serializedVersion: 2
-        x: 16
-        y: 67
-        width: 17
-        height: 17
+        x: 34
+        y: 68
+        width: 15
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -233,10 +233,10 @@ TextureImporter:
       name: Flights_3
       rect:
         serializedVersion: 2
-        x: 16
-        y: 50
-        width: 18
-        height: 18
+        x: 51
+        y: 68
+        width: 15
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -255,10 +255,10 @@ TextureImporter:
       name: Flights_4
       rect:
         serializedVersion: 2
-        x: 33
-        y: 67
-        width: 17
-        height: 17
+        x: 0
+        y: 51
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,10 +277,10 @@ TextureImporter:
       name: Flights_5
       rect:
         serializedVersion: 2
-        x: 33
-        y: 50
-        width: 18
-        height: 18
+        x: 17
+        y: 51
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -299,10 +299,10 @@ TextureImporter:
       name: Flights_6
       rect:
         serializedVersion: 2
-        x: 50
-        y: 67
-        width: 17
-        height: 17
+        x: 34
+        y: 51
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,10 +321,10 @@ TextureImporter:
       name: Flights_7
       rect:
         serializedVersion: 2
-        x: 50
-        y: 50
-        width: 17
-        height: 18
+        x: 51
+        y: 51
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,9 +344,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 33
-        width: 17
-        height: 18
+        y: 35
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -365,10 +365,10 @@ TextureImporter:
       name: Flights_9
       rect:
         serializedVersion: 2
-        x: 0
-        y: 16
-        width: 17
-        height: 18
+        x: 17
+        y: 34
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -387,10 +387,10 @@ TextureImporter:
       name: Flights_10
       rect:
         serializedVersion: 2
-        x: 16
-        y: 33
-        width: 18
-        height: 18
+        x: 34
+        y: 35
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -409,10 +409,10 @@ TextureImporter:
       name: Flights_11
       rect:
         serializedVersion: 2
-        x: 16
-        y: 16
-        width: 18
-        height: 18
+        x: 51
+        y: 34
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -431,10 +431,10 @@ TextureImporter:
       name: Flights_12
       rect:
         serializedVersion: 2
-        x: 33
-        y: 33
-        width: 18
-        height: 18
+        x: 2
+        y: 17
+        width: 11
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -453,10 +453,10 @@ TextureImporter:
       name: Flights_13
       rect:
         serializedVersion: 2
-        x: 33
-        y: 16
-        width: 18
-        height: 18
+        x: 17
+        y: 18
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -475,10 +475,10 @@ TextureImporter:
       name: Flights_14
       rect:
         serializedVersion: 2
-        x: 50
-        y: 33
-        width: 17
-        height: 18
+        x: 36
+        y: 17
+        width: 11
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -497,10 +497,10 @@ TextureImporter:
       name: Flights_15
       rect:
         serializedVersion: 2
-        x: 50
-        y: 16
-        width: 17
-        height: 18
+        x: 51
+        y: 18
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -519,10 +519,10 @@ TextureImporter:
       name: Flights_16
       rect:
         serializedVersion: 2
-        x: 5
+        x: 6
         y: 0
-        width: 23
-        height: 17
+        width: 21
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -541,10 +541,10 @@ TextureImporter:
       name: Flights_17
       rect:
         serializedVersion: 2
-        x: 37
+        x: 38
         y: 0
-        width: 25
-        height: 17
+        width: 23
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -563,7 +563,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 3bdf297ae147a4343a5a28560888ee94
+    spriteID: e8625af3152799a4595706e985bfa2da
     internalID: 0
     vertices: []
     indices: 
@@ -571,8 +571,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
+      Flights_0: 6855878425067975079
       Flights_1: -5908667003362582075
       Flights_10: -1751798025011321040
       Flights_11: 8789292503317841452
@@ -590,7 +593,6 @@ TextureImporter:
       Flights_7: -7265815887256802401
       Flights_8: 8825260978677446769
       Flights_9: 5220432158498585318
-      PlayerShip: 6855878425067975079
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
