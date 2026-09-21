@@ -1,11 +1,5 @@
-﻿using UnityEngine;
+using UnityEngine;
 
-// [교육용 스크립트] EnemySpawner
-// ------------------------------------------------------------
-// 일정 시간(spawnInterval)마다 화면 위쪽의 임의(랜덤)의 x좌표에
-// 적(enemyPrefab)을 하나씩 자동으로 생성(Instantiate)해 주는
-// 스크립트입니다. 게임 오브젝트에 이 스크립트 하나만 붙이면 적이
-// 끊임없이 등장하는 슈팅 게임 특유의 흐름을 만들 수 있습니다.
 public class EnemySpawner : MonoBehaviour
 {
     // 생성할 적 프리팹 에셋입니다.
