@@ -1,22 +1,5 @@
-﻿using UnityEngine;
+using UnityEngine;
 
-// [교육용 스크립트] Bullet
-// ------------------------------------------------------------
-// 플레이어와 적이 공용으로 사용하는 "양방향(위/아래) 총알" 스크립트
-// 입니다. moveDirection과 targetTag 필드 값을 다르게 설정해 두면
-// 같은 스크립트 하나로 플레이어 총알(위로 이동, Enemy 타격)과 적
-// 총알(아래로 이동, Player 타격)을 모두 표현할 수 있습니다.
-//
-// ShootingEntity를 상속받지 않는 독립적인 스크립트이며, 클래스
-// 이름(Bullet)이 파일 이름(Bullet.cs)과 정확히 일치해야 Unity가
-// 이 스크립트를 컴포넌트로 인식할 수 있습니다.
-//
-// [RequireComponent(typeof(Rigidbody2D))]
-// 이 어트리뷰트는 "이 스크립트가 붙는 게임 오브젝트에는 반드시
-// Rigidbody2D 컴포넌트가 함께 있어야 한다"는 것을 Unity에게
-// 알려줍니다. Rigidbody2D가 없다면 Unity가 자동으로 추가해 주기
-// 때문에, OnTriggerEnter2D 같은 2D 트리거(Trigger) 충돌 이벤트가
-// 정상적으로 발생하도록 보장해 줍니다.
 [RequireComponent(typeof(Rigidbody2D))]
 public class Bullet : MonoBehaviour
 {
