@@ -1,12 +1,5 @@
-﻿using UnityEngine;
+using UnityEngine;
 
-// [교육용 스크립트] EnemyShooter
-// ------------------------------------------------------------
-// 화면 위쪽에서 아주 천천히 아래로 내려오면서(마치 공중에 떠 있는
-// 느낌) 동시에 좌우로 불규칙하게 흔들리며 이동하고, 일정 시간마다
-// 자신만의(Player를 겨냥하는) 총알을 자동 발사하는 적 스크립트입니다.
-// ShootingEntity를 상속받아 speed, maxHp, currentHp, TakeDamage 같은
-// 공통 기능을 그대로 사용합니다.
 public class EnemyShooter : ShootingEntity
 {
     // 아래로 내려가는 속도입니다. 값이 매우 작아 "거의 떠 있는 듯한"
