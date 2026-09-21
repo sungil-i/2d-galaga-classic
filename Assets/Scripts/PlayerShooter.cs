@@ -1,11 +1,5 @@
-﻿using UnityEngine;
+using UnityEngine;
 
-// [교육용 스크립트] PlayerShooter
-// ------------------------------------------------------------
-// 플레이어가 조종하는 우주선의 좌우 이동과 총알 발사, 피격 처리를
-// 담당하는 스크립트입니다. ShootingEntity를 상속(Inheritance)받아
-// speed, maxHp, currentHp, TakeDamage 같은 공통 기능을 그대로
-// 물려받아 사용합니다.
 public class PlayerShooter : ShootingEntity
 {
     // 화면 좌우 이동 가능 범위(절반 너비)입니다. Orthographic 카메라
